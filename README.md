@@ -1,2 +1,0 @@
-# aimakad.github.io
-верстка
